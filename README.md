@@ -20,7 +20,7 @@ Za zadania realizowane w czasie zajęć można otrzymać oceny 3, 4 i 5. Wymagan
 Możliwość rozmowy n/t programu (proste pytania sprawdzające własnoręczne napisanie programu). Oblanie rozmowy - 2.0 z danego laboratorium.  
 Środowisko: C++, kompilator/IDE dowolne (sugerowane Visual Studio).  
 Pliki źródłowe na koniec zajęć mailowo do prowadzącego.  
-Spóźnienie w oddawaniu programów: każdy tydzień skutkuje oceną niższą o 1.0.  
+Spóźnienie w oddawaniu programów: każdy tydzień skutkuje oceną niższą o 1.0. Tydzień rozpoczyna się w momencie zakończenia zajęć (to jest, oddanie do końca zajęć - pełna ocena, po - ocena w dół).  
 Finalna ocena: średnia arytmetyczna.  
 
 ### Projekt
