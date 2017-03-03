@@ -28,6 +28,6 @@ Finalna ocena: średnia arytmetyczna.
 Ustalenie tematu z prowadzącym na drugich zajęciach.  
 Dopuszczalne użycie innego języka programowania niż C++ po konsultacji z prowadzącym.  
 Przykładowe tematy: strona Pawła Ksieniewicza https://github.com/programowanie, proj_*  
-Kryteria oceny: poprawność działania, czytelność kodu, stopień skomplikowana projektu, dokumentacja (wymagana).  
+Kryteria oceny: poprawność działania, czytelność kodu, stopień skomplikowana projektu, dokumentacja (wymagana), rozmowa.  
 Termin oddania: przedostatnie zajęcia (miękki), ostatnie zajęcia (twardy).  
 Sposób oddania: indywidualna rozmowa z prowadzącym.  
