@@ -27,4 +27,5 @@ Finalna ocena: średnia arytmetyczna.
 
 Ustalenie tematu z prowadzącym na drugich zajęciach.  
 Przykładowe tematy: strona Pawła Ksieniewicza https://github.com/programowanie, proj_*  
-Kryteria oceny: poprawność działania, czytelność kodu, stopień skomplikowana projektu, dokumentacja (wymagana).
+Kryteria oceny: poprawność działania, czytelność kodu, stopień skomplikowana projektu, dokumentacja (wymagana).  
+Termin oddania: przedostatnie zajęcia.  
