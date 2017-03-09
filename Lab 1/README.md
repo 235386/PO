@@ -8,7 +8,7 @@ Wyświetlanie macierzy losowych liczb. Powtórzenie wiadomości z poprzedniego s
 
 ## Etap 1 (3.0)
 
-Pobierz od użytkownika wymiary macierzy (wysokość i szerokość). Utwórz dynamiczną tablicę liczb zmiennoprzecinkowych i wypełnij ją losowymi liczbami z zakresu [-1; 1]. Napisz funkcję jako parametry przyjmującą macierz oraz jej wymiary, wypisującą wartości macierzy na ekran. Wykorzystaj podaną funkcję do wyświetlenia macierzy. Pamiętaj o zwolnieniu pamięci przed zakończeniem programu!
+Pobierz od użytkownika wymiary macierzy (wysokość i szerokość). Utwórz dynamiczną, dwuwymiarową tablicę liczb zmiennoprzecinkowych i wypełnij ją losowymi liczbami z zakresu [-1; 1]. Napisz funkcję jako parametry przyjmującą macierz oraz jej wymiary, wypisującą wartości macierzy na ekran. Wykorzystaj podaną funkcję do wyświetlenia macierzy. Pamiętaj o zwolnieniu pamięci przed zakończeniem programu!
 
 ## Etap 2 (4.0)
 
