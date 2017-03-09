@@ -4,7 +4,15 @@ Wyświetlanie macierzy losowych liczb. Powtórzenie wiadomości z poprzedniego s
 
 ## Materiały pomocnicze
 
-[Wprowadzenie do Visual Studio](https://msdn.microsoft.com/pl-pl/library/jj620919.aspx)
+[Wprowadzenie do Visual Studio](https://msdn.microsoft.com/pl-pl/library/jj620919.aspx)  
+
+[Generowanie liczb (pseudo)losowych](http://www.cplusplus.com/reference/cstdlib/rand/)  
+
+[Określanie precyzji wyświetlanych liczb zmiennoprzecinkowych](http://www.cplusplus.com/reference/cstdio/printf/)  
+
+[Struktury danych](http://www.cplusplus.com/doc/tutorial/structures/)  
+
+[Zapisywanie do pliku](http://www.cplusplus.com/reference/cstdio/fprintf/)  
 
 ## Etap 1 (3.0)
 
