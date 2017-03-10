@@ -25,3 +25,7 @@ Podczas wyświetlania macierzy ogranicz liczbę miejsc po przecinku do 3. Nastę
 ## Etap 3 (5.0)
 
 Napisz funkcję zapisującą macierz do pliku tekstowego. Nazwa pliku powinna być jednym z parametrów funkcji. Następnie zmodyfikuj kod programu w taki sposób, aby w zależności od decyzji użytkownika zawartość macierzy była wyświetlana na ekran lub zapisywana do pliku. Nazwa pliku powinna być pobierana od użytkownika.
+
+## Etap 4 (5.5)
+
+Utwórz klasę RandomComplexMatrix. Parametrami jej konstruktora powinny być jej wymiary oraz zakresy, z których losowane będą wartości. Utwórz metody umożliwiające jej wyświetlenie, zapisanie do pliku, wczytanie z pliku, transpozycję, sprzężenie oraz sprzężenie hermitowskie. Zapewnij użytkownikowi możliwość wykonywania poszczególnych operacji w obrębie pojedynczego wywołania programu. Zwolnienie pamięci przeprowadź w destruktorze. Zabezpiecz program przed niepoprawnymi wartościami podanymi przeż użytkownika!
