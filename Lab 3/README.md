@@ -22,4 +22,4 @@ Przeładuj operator przypisania. Pamiętaj, że operator musi zwolnić pamięć 
 
 ## Etap 4 (5.5)
 
-Zaimplementuj wariant, w którym rozmiar wektora nie jest znany podczas inicjalizacji. W tym celu wykorzystaj dwie struktury danych: tablice i kolejki. Możesz wykorzystać gotową implementację kolejki. Podczas implementacji nowych klas wykorzystaj dziedziczenie. Które z operacji są szybsze w którym z wariantów?
+Zaimplementuj wariant, w którym rozmiar wektora nie jest znany podczas inicjalizacji. W tym celu wykorzystaj dwie struktury danych: tablice i listy. Możesz wykorzystać gotową implementację listy. Podczas implementacji nowych klas wykorzystaj dziedziczenie. Które z operacji są lepsze (i pod jakim względem) w którym z wariantów?
